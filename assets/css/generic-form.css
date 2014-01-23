@@ -1,0 +1,40 @@
+.form {
+    max-width: 800px;
+    margin: auto;
+}
+
+table{
+    margin: auto;
+    width: 500px;
+}
+
+td{
+    padding: 5px;
+}
+
+.form .form-heading{
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.form .form-control {
+    position: relative;
+    font-size: 16px;
+    padding: 5px;
+}
+
+.msg{
+    width:500px;
+    height:30px;
+    padding:5px;
+    margin:auto;
+    margin-top:10px;
+}
+
+.alert{
+    text-align:center;
+}
+
+td button{
+   margin: auto;
+}
